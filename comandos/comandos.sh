@@ -40,3 +40,4 @@
    40  git commit -m "Atualização"
    41  git push
    42  history
+   
