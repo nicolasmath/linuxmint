@@ -34,9 +34,9 @@
    34  git pull
    35  git add .
    36  git commit -m "Atualização"
-   37  git config --global user.email nicolassmatheu.s21@gmail.com
-   38  git config --global "Nicolas Matheus"
-   39  git config --global user.name "Nicolas Matheus"
+   37  git config --global user.email n
+   38  git config --global ""
+   39  git config --global user.name ""
    40  git commit -m "Atualização"
    41  git push
    42  history
